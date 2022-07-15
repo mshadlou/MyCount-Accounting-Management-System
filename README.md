@@ -1,5 +1,5 @@
 # MyCount-Accounting-Management-System
-This version of MyCount is designed to facilitate sales and accounting of almost all businesses. The simplicity of work accompanied by special features, the faster performance of accountants in different departments and at the same time to issue documents and receive desired financial and tax reports are the most important part of designing this accounting software.
+This version of MyCount [8.2.4 released on 15th July] is designed to facilitate sales and accounting of almost all businesses. The simplicity of work accompanied by special features, the faster performance of accountants in different departments and at the same time to issue documents and receive desired financial and tax reports are the most important part of designing this accounting software.
 <br>
 
 ## Basic definitions and features in MyCount: 
