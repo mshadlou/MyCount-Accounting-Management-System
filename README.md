@@ -26,3 +26,24 @@ Product-related operations are carried out at levels of main, secondary, product
 
 ## Check and bank: 
 Registring the received and paid debits and checks, notification of collection, return from collection mode, notification of the receipt of checks automatically.<br>
+
+
+## Technical point:
+To design and implement this software, SQL Server and T-SQL scripting weres used for the database and C# was used for implementing the software. I will work on the Decentralised feature where MyCount software communicates with the MyCount server and Azure SQL database. <br>
+Full infrastructure of the MyCount is shown as follows:<br>
+
+[![MyCount Infrastructure](https://github.com/mshadlou/MyCount-Accounting-Management-System/blob/main/Infrastructure.JPG)]()
+
+For this development, most of the ideas came from a valuable book written by Jack Johnson. I have made a thorough revision of his codes while have taken his design principles. The MyCount has more features i.e. SQL database has more entities and tables to support an advanced version of the accounting management system.<br>
+
+ER Diagram is shown in following:
+[![ER Diagram](https://github.com/mshadlou/MyCount-Accounting-Management-System/blob/main/ER%20Diagram.jpg)]()
+
+#### Reference: 
+<a href="https://www.amazon.co.uk/Practice-SERVER-Accounting-System-Project-ebook/dp/B08FGHK72F">Jack Johnson's book: Practice C#.NET and SQL SERVER with Accounting System Project: FULL Source Code C# and Database - Advanced Leve</a>
+
+To view a demo of the software, you may check the youtube view at <a href="https://youtu.be/xhN0bpSIpD8
+![image](https://user-images.githubusercontent.com/87391484/179256774-326d00c6-ba55-4f01-8829-fbb036392628.png)
+">YouTube video</a>
+
+
