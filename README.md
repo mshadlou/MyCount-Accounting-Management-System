@@ -40,7 +40,7 @@ ER Diagram is shown in following:
 [![ER Diagram](https://github.com/mshadlou/MyCount-Accounting-Management-System/blob/main/ER%20Diagram.jpg)]()
 
 #### Reference: 
-<a href="https://www.amazon.co.uk/Practice-SERVER-Accounting-System-Project-ebook/dp/B08FGHK72F">Jack Johnson's book: Practice C#.NET and SQL SERVER with Accounting System Project: FULL Source Code C# and Database - Advanced Leve</a>
+<a href="https://www.amazon.co.uk/Practice-SERVER-Accounting-System-Project-ebook/dp/B08FGHK72F">Jack Johnson's book</a>
 
 To view a demo of the software, you may check the youtube view at <a href="https://youtu.be/xhN0bpSIpD8
 ![image](https://user-images.githubusercontent.com/87391484/179256774-326d00c6-ba55-4f01-8829-fbb036392628.png)
